@@ -1,0 +1,13 @@
+span {
+  display: inline-block;
+  background-color: green;
+  color: white;
+  padding: 5px 10px;
+  margin-bottom: 30px;
+  border-radius: 5px;
+  text-transform: uppercase;
+}
+
+.esgotado {
+  background-color: red;
+}
